@@ -5,3 +5,9 @@ working in the field?
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 they could overwrite previous work
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+branches are in the same repository
+clones are duplicating a repository
+forks are duplicating a GitHub repository
