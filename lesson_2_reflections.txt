@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You need to run git init, then if you wish, perform first commit
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+gives the chance of systematically adding things before committing.
