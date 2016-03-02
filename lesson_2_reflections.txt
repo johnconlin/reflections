@@ -17,3 +17,7 @@ working on new features
 How do the diagrams help you visualize the branch structure?
 
 let you know where branches occcured, and how far they went
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+changes from both paths are merged togetehr
