@@ -21,3 +21,7 @@ let you know where branches occcured, and how far they went
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 changes from both paths are merged togetehr
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+keeps track of changes - can be awkward to work out what to keep
